@@ -1,3 +1,11 @@
+<div align="right">
+
+[🌐 **Live Website**](https://goldgd.vercel.app) · [🎨 **Portfolio**](https://wafikaium.com)
+
+</div>
+
+---
+
 # GoldenGuide — The Complete Golden Retriever Resource
 
 > Food safety checker, feeding calculator, symptom checker, health guide & first-year cost calculator.
